@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lnxslck
-- 👀 I’m interested in all things technological, specially DevOps, Open Source tools, Coding, Management and Leadership
+- 👀 I’m interested in all things technological, specially DevOps, Open Source tools, Coding, Artificial Intelligence, Management and Leadership
 - 🌱 I’m currently learning Rust and AI
 - 💞️ I’m looking to collaborate on anything related to DevOps and AI
 - 📫 How to reach me lnxslck@gmail.com
